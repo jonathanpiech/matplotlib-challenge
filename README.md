@@ -10,3 +10,7 @@ This project uses a fictional dataset of drug treatments for the fictional compa
 ![alt-text](https://raw.githubusercontent.com/jonathanpiech/pharm-drugs/master/Pharm/fig2.png "Spread of Metastatic Sites")
 ![alt-text](https://raw.githubusercontent.com/jonathanpiech/pharm-drugs/master/Pharm/fig3.png "Survival Rate of Mice During Treatment")
 ![alt-text](https://raw.githubusercontent.com/jonathanpiech/pharm-drugs/master/Pharm/fig4.png "Percent Change of Tumor Volume After 45 Day Treatment")
+
+## Technologies Used
+- Pandas
+- Matplotlib
